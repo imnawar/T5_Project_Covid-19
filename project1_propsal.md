@@ -4,17 +4,21 @@
 This repo is one of the T5 Bootcamp requirements. 
 
 
-## There is any relation between weather and covid-19 cases?
+# There is any relation between weather and covid-19 cases?
 
 Under the covid-19 pandemic conditions, and what increases the covid cases I going to introduce this study of covid-19 and the weather relation to discover if there is a relation between these two variables? 
 
 Based on predictions of future weather, this will assist in forecasting future covid-19 cases. 
+
+Getting better-protected ways for individuals with the days when covid levels predected are high is the benefit of this study.
 
 ## Dataset
 To achieve the goal of this study the dataset **[NeurIPS 2020] Data Science for COVID-19 (DS4C)** will be used. 
 This dataset can be found [here](https://www.kaggle.com/kimjihoo/coronavirusdataset) at Kaggle.
 
 This dataset was released by KCDC (Korea Centers for Disease Control & Prevention). It contains multiple ```.csv``` files. 
+
+Each weather sample cosist of these features: date, mean_avg_temp, mean_min_temp, mean_max_temp, mean_precipitation, mean_max_wind_speed, mean_most_wind_direction, mean_avg_relative_humidity, day, week. And the timpe sample consist of date, time, test, negative, confirmed, released and deceased. 
 
 The data will be merged more than one ```.csv``` file for that the single sample is cosist of multiple features. 
 
