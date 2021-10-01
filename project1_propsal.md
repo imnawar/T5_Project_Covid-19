@@ -4,7 +4,7 @@
 This repo is one of the T5 Bootcamp requirements. 
 
 
-# There is any relation between weather and covid-19 cases?
+# Is there any relation between weather and covid-19 cases?
 
 Under the covid-19 pandemic conditions, and what increases the covid cases I going to introduce this study of covid-19 and the weather relation to discover if there is a relation between these two variables? 
 
@@ -29,7 +29,7 @@ Furthermore, Maybe I'll use a model that predicts how many confined cases will o
 
 ## Tools
 
-There are tools that will be used to achieve the goal of this study, such as: ```sklearn, matplotlib, pandas``` for discovering the data and train a model for instance **Linear regression. The work will be done through Jupyter notebook.
+There are tools that will be used to achieve the goal of this study, such as: ```sklearn, matplotlib, pandas``` for discovering the data and train a model for instance **Linear regression**. The work will be done through Jupyter notebook.
 
 ## **TO DO**: 
 - Explore the data and come up with EDA phases then use a ML model to fit the data.  
