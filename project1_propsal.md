@@ -1,4 +1,4 @@
-# Project 1 Propsal 
+# Project 1 Proposal 
 
 
 This repo is one of the T5 Bootcamp requirements. 
@@ -32,5 +32,5 @@ Furthermore, Maybe I'll use a model that predicts how many confined cases will o
 There are tools that will be used to achieve the goal of this study, such as: ```sklearn, matplotlib, pandas``` for discovering the data and train a model for instance **Linear regression. The work will be done through Jupyter notebook.
 
 ## **TO DO**: 
-- starting discovering the data and come up with EDA phases until cleaning data the start use ML model to fit the data.  
+- Explore the data and come up with EDA phases then use a ML model to fit the data.  
 - **NOTE:** the used features may bey increased and the model as well. 
